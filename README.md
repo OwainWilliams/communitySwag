@@ -16,3 +16,4 @@ Please use the format - filename - link to website
 - accessibility-reporter.png / [https://www.accessibilityreporter.com/](https://www.accessibilityreporter.com/)
 - owainjonesdev_logo_black.png / owainjonesdev_logo_white.png / [https://owainjones.dev/](https://owainjones.dev/)
 - UmbraCymru_logo.png / [https://www.meetup.com/UmbraCymru/](https://www.meetup.com/UmbraCymru/)
+- arjo_fullstack.png / [https://github.com/Rockerby](https://github.com/Rockerby)
